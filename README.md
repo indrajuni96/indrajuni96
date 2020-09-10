@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Indra's github stats](https://github-readme-stats.vercel.app/api?username=indrajuni96&theme=tokyonight&show_icons=true)
+
 <!--
 **indrajuni96/indrajuni96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
