@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋, I'm indra juniyanto
 
 ![Indra's github stats](https://github-readme-stats.vercel.app/api?username=indrajuni96&theme=tokyonight&show_icons=true)
 
